@@ -1,0 +1,9 @@
+fastapi[standard]
+pymysql
+python-dotenv
+uvicorn[standard]
+loguru
+gunicorn
+httpx
+SQLAlchemy
+cryptography
